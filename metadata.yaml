@@ -1,0 +1,29 @@
+_repo: The-Fifth-String_29481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sousa, John Philip
+    alias: Sousa, J. P. (John Philip)
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '270'
+    url: http://www.gutenberg.org/2009/agents/270
+    wikipedia: http://en.wikipedia.org/wiki/John_Philip_Sousa
+description: ''
+gutenberg_issued: '2009-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Violinists -- Fiction'
+- !lcc 'PS'
+title: The Fifth String
+url: http://www.gutenberg.org/ebooks/29481
